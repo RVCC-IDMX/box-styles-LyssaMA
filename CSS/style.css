@@ -13,5 +13,8 @@
   
   .box-two {
     background-color: rgb(231, 177, 29);
-    border: 18px solid rgb(226, 25, 25);
+    border: 20px solid rgb(226, 25, 25);
+    padding: 20px; 
+    margin: 20px; 
+    border-width: 20px;
   } 
